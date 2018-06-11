@@ -1,0 +1,240 @@
+body{
+	margin:0px;
+	padding: 0px;
+}
+
+h1{
+	font-size: 50px;
+	font-weight: bold;
+	padding-left: 80px;
+	color: #fff;	
+
+	}
+
+#dii{
+	border:2px solid #fff;
+	height: 115px;
+	background-color:  #365899;
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+	}
+
+
+
+#di1{
+	position: absolute;
+	left: 600px;
+	top:50px;
+	color:#fff;
+	}
+
+
+
+#dif{
+	position: absolute;
+	left:800px;
+	top:80px;
+	color:#fff;
+}
+
+
+
+#di2{
+	position: absolute;
+	left: 800px;
+	top:50px;
+	color:#fff;
+	}
+
+
+
+#di3{
+	position:absolute;
+	left:1000px;
+	top:68px;
+	}
+
+
+
+#btn{
+	color: #fff;
+	background-color: #4267b2;
+	padding: 2px 6px;
+	border:2px solid #29487d;
+	}
+
+
+
+#dip{
+	position: absolute;
+	top:200px;
+	}
+
+
+
+#dipre{
+		position: absolute;
+		top: 130px;
+		right: 600px;
+		color:#0e385f;
+		font-weight: bolder;
+		font-size: 20px;
+		}
+
+
+
+#di4{
+    font-size: 40px;
+    position: absolute;
+    left: 600px;
+    top: 100px;
+	font-weight: bold;
+	}
+
+
+
+#di5{
+	position: absolute;
+	left:0px;
+	top:80px;
+	font-size: 20px;
+	}
+
+
+#diname{
+		border:1px solid #bdc7d8;
+		padding: 8px 4px;
+		font-size: 17px;
+		border-radius: 6px;
+		}
+
+
+
+#disurname{
+		border:1px solid #bdc7d8;
+		padding: 8px 4px;
+		font-size: 17px;
+		border-radius: 6px;
+		position: absolute;
+		left: 240px;
+		top:140px;
+		}
+
+
+
+#mobile{
+		border:1px solid #bdc7d8;
+		padding: 8px 240px 8px 10px;
+		margin: 0px 0px 0px 0px; 
+		font-size: 18px;
+		border-radius: 6px;
+		position: absolute;
+		left: 0px;
+		top:190px;
+		text-align: start ;
+		}
+
+
+
+#newpassword{
+			border:1px solid #bdc7d8;
+			padding: 8px 240px 8px 10px;
+			margin: 0px 0px 0px 0px; 
+			font-size: 18px;
+			border-radius: 6px;
+			position: absolute;
+			left: 0px;
+			top:240px;
+			text-align: start;
+			}
+
+
+
+#birthday{
+		padding: 90px 0px;
+		font-size: 30px;
+		}
+
+
+
+#diday{
+		position: absolute;
+		top:310px;
+		}
+
+
+
+#dimonth{
+		position: absolute;
+		top: 310px;
+		left:50px;
+		}
+
+
+
+#diyear{
+		position: absolute;
+		top: 310px;
+		left:114px;
+		}
+
+
+
+#diprov{
+		position: absolute;
+		color: #365899;
+		font-size: 12px;
+		top:320px;
+		left: 180px;
+		}
+
+
+
+#difemale{
+		  position: absolute;
+		  top:370px;
+	   	  left: 0px;
+		  font-size: 18px;
+		  }
+
+
+
+#dimale{
+		position: absolute;
+		top: 370px;
+		left:90px;
+		font-size: 18px;
+		}
+
+
+
+#diconf{
+		position: absolute;
+		font-size: 12px;
+		top:390px;
+		color:#777;
+		}
+
+
+
+#dibutton{
+		  position: absolute;
+		  top:480px;
+		  font-weight: bold;
+		  color: #fff;
+		  padding: 7px 20px;
+		  border-radius: 5px;
+		  font-size: 20px;
+		  box-shadow: inset 0 1px 1px #a4e388;
+		  background:linear-gradient(#67ae55, #578843);
+		  border-color: #3b6e22 #3b6e22 #2c5115;
+		  }
+
+
+
+#dilast{
+		font-size: 14px;
+		padding-top: 80px;
+		color:#777;
+		}
+
